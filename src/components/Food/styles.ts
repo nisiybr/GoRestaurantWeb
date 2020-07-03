@@ -114,6 +114,7 @@ export const Container = styled.div<IFoodPlateProps>`
           background-color: #c72828;
           -webkit-transition: 0.4s;
           transition: 0.4s;
+
           border-radius: 16px;
 
           &:before {
